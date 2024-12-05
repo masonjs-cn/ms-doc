@@ -1,0 +1,1 @@
+import{L as n}from"./theme.DXX1MCXi.js";import{d as a,B as s,o as r,c as l,G as c,w as p,a as i}from"./framework.fj13t-py.js";const f=a({__name:"fn-dialog",setup(m){const e=()=>{n({title:"标题",content:"函数方法",width:"500px"})};return(_,t)=>{const o=s("el-button");return r(),l("div",null,[c(o,{onClick:e},{default:p(()=>t[0]||(t[0]=[i("打开")])),_:1})])}}});export{f as default};

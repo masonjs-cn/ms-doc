@@ -1,0 +1,1 @@
+import{_ as c,B as e,o as n,b as s}from"./framework.fj13t-py.js";const r={};function t(a,_){const o=e("ms-basic-container");return n(),s(o,{block:!0,radius:"8px"})}const m=c(r,[["render",t]]);export{m as default};
